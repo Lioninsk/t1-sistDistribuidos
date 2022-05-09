@@ -1,0 +1,8 @@
+tcp only
+
+1) Dont support multiple clients, it responds sequencially, 1 to 1 client its like a line
+Simple, just listen the client dont try to comunnicate 
+
+cliente: simple, just read from the server.
+
+2)
